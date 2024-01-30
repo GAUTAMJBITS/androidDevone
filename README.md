@@ -19,4 +19,4 @@ Documentation: Code Comments: Add comments to explain complex logic or important
 README: Create a README file with instructions on how to build, run, and test the application. Include details on any configuration settings or dependencies. 
 Deployment: Prepare the application for deployment to the Google Play Store or any other distribution platform. By following these steps, you can create a robust Android chatbot application that leverages Kotlin for development, Postman for API testing, and integrates the ChatGPT API for natural language processing.
 
-Credit : Youtube papaya<img width="960" alt="ask me" src="https://github.com/GAUTAMJBITS/androidDevone/assets/110326087/58d8e978-4354-460f-916c-bf4966d2e672">
+<img width="960" alt="ask me" src="https://github.com/GAUTAMJBITS/androidDevone/assets/110326087/58d8e978-4354-460f-916c-bf4966d2e672">
